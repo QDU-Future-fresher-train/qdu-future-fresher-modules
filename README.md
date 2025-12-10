@@ -5,7 +5,7 @@
 ### 添加源
 
 ```bash
-xrobot_src_man add-source https://qdu-future-fresher-train.github.io/qud-future-fresher-modules/index.yaml
+xrobot_src_man add-source https://qdu-future-fresher-train.github.io/qdu-future-fresher-modules/index.yaml
 [SUCCESS] Added source: https://qdu-future-fresher-train.github.io/qud-future-fresher-modules/index.yaml to Modules\sources.yaml
 ```
 
