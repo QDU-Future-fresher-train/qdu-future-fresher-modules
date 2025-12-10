@@ -15,4 +15,3 @@ xrobot_src_man add-source https://qdu-future-fresher-train.github.io/qud-future-
 xrobot_src_man list
 Available modules:
 ......
-```
