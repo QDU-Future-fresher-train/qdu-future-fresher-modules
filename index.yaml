@@ -1,0 +1,5 @@
+namespace: qdu-future-fresher
+modules:
+  - https://github.com/QDU-Future-fresher-train/TTMotor.git
+  - https://github.com/QDU-Future-fresher-train/HcSro4.git
+  - https://github.com/QDU-Future-fresher-train/Chassis.git
